@@ -1,0 +1,22 @@
+{
+  "name": "dotlist",
+  "version": "0.1.0",
+  "description": "High-performance .list syntax processing library for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "build": "napi build --release --features nodejs",
+    "build:debug": "napi build --features nodejs",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "@napi-rs/cli": "^2.0.0"
+  },
+  "devDependencies": {},
+  "napi": {
+    "name": "dotlist",
+    "triple": true
+  },
+  "keywords": ["list", "parser", "syntax", "data"],
+  "author": "",
+  "license": "MIT"
+}
