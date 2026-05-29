@@ -66,7 +66,7 @@ extern "C" {
         void* list_data_load_binary(const char* path);
 }
 
-namespace list_lang {
+namespace dotlist {
 
 class ListItem;
 
