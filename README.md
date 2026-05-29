@@ -1,4 +1,5 @@
-### if you are in english, please read *README_en.md*
+![LICENSE](https://img.shields.io/badge/_LICENCE_-_LGPL--2.0_-orange)  ![Auther](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-i8donkey-blue)
+### if you are in english, please read [the english version](README_en.md)
 
 # .list 高性能多语言语法处理工具
 

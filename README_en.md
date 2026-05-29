@@ -1,4 +1,5 @@
-### 如果你需要中文版本，请阅读 *README.md*
+![Static Badge](https://img.shields.io/badge/_LICENCE_-_LGPL--2.0_-orange)  ![Auther](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-i8donkey-blue)
+### 如果你需要中文版本，请阅读 [中文版本](README.md)
 
 # .list High-Performance Multi-Language Syntax Processing Tool
 
